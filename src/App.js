@@ -9,7 +9,7 @@ import uuid from "uuid";
 class App extends Component{
  
    
-state={
+state={ 
   items:[],
   id:uuid(), 
   item:'',
